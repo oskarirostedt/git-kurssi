@@ -1,1 +1,3 @@
-*.py\n*.out\n*.pyc
+.py
+.out
+.pyc
